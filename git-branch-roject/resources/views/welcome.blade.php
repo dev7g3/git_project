@@ -37,7 +37,7 @@
                     @endauth
                 </div>
             @endif
-            <p>Welcome.LAravel project- git branching</p>
+            <p>Welcome.Laravel project - git branching</p>
 
             <!-- <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
