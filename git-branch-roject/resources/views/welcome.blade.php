@@ -6,6 +6,8 @@
 
         <title>Laravel-development branch-myfature-2</title>
         <title>Laravel-development branch-myfature-3</title>
+        <title>Laravel-development branch-upload to server</title>
+
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
